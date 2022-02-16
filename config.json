@@ -1,0 +1,12 @@
+{
+  "adminParticipants": [
+    "mari@turnoverbnb.com",
+    "kercinha@gmail.com",
+    "andre@turnoverbnb.com"
+  ],
+  "conversationSampleSize": 5,
+  "conversationFilters": {
+    "minimumReplies": 20,
+    "maximumAgeInDays": 4
+  }
+}

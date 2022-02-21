@@ -1,8 +1,8 @@
 {
   "adminParticipants": [
-    "mari@turnoverbnb.com",
-    "kercinha@gmail.com",
-    "andre@turnoverbnb.com"
+    "example1@turnoverbnb.com",
+    "example2@gmail.com",
+    "example3@turnoverbnb.com"
   ],
   "conversationSampleSize": 5,
   "conversationFilters": {
